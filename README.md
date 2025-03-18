@@ -36,5 +36,8 @@ To run this app, you need the following Python libraries installed:
 You can install all dependencies by running:
 
 ```bash
-pip install streamlit scikit-learn matplotlib numpy
+- pip install streamlit scikit-learn matplotlib numpy
 # confusionMatrix
+
+# Live
+https://confusionmatrix-6cpvkannplmomxp4tvwiyt.streamlit.app/
